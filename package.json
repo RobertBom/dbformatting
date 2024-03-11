@@ -1,0 +1,23 @@
+{
+  "name": "vue-dp-utils",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@infectoone/vue-ganttastic": "^2.0.5",
+    "ant-design-vue": "^3.2.11",
+    "apexcharts": "^3.35.5",
+    "vue": "^3.2.37",
+    "vue3-apexcharts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^3.2.1",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.7"
+  }
+}
