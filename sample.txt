@@ -1,0 +1,212 @@
+C0	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C16	C17	C18	C19	C20	C21	C22	C23	C24	C25	C26	C27	C28	C29	C30	C31	C32	C33	C34	C35	C36	C37	C38	C39	C40
+Mueller, Maria	0,820513		/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/			134,40	-134,40	0,00
+Studium Soziale Arbeit (od. vgl. Abschluss) 	32,00		/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/			0,00	-244,93	30,00
+Pädagogische Fachkraft	-110,53																																							
+Team	30,00																																					0,00	0,00	25,68
+	5,00																																					0,00		
+	6,40																																							
+Baumgartner, Martina	0,512821		/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/			84,00	-84,00	0,00
+Ergänzungskraft	20,00		/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/			0,00	-253,50	30,00
+	-169,50																																							
+Team, Sonstige	30,00																																					0,00	0,00	0,00
+	5,00																																					0,00		
+	4,00																																							
+Freytag, Martin	0,394872		/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	/	/	/	/_S	/	N1	/	/	N1	/	/	64,68	3,60	16,00
+Erzieher_in	15,40		/																								/	/	/	/_S	/	N1	/	/	N1	/	/	68,28	-14,49	13,00
+Pädagogische Fachkraft	-18,09																																							
+Team	29,00																																					0,00	68,28	14,89
+	5,00			3,08	3,08			3,08	3,08	3,08	3,08	3,08			3,08	3,08	3,08	3,08	3,08			3,08	3,08	3,08	3,08	3,08						9,50			9,50			68,28		
+	3,08																																							
+Faber, Daniel	0,307692		/	/	N2	N2	/	/	/	/	/	/	/	/	/	/	/	/	N2	N2	/	/	/	/	/	/	/	/	/	/	/	/	N2	N2	/	/	/	50,40	8,10	0,00
+Heilerziehungspfleger_in	12,00		/	/	N2	N2	/	/	/	/	/	/	/	/	/	/	/	/	N2	N2	/	/	/	/	/	/	/	/	/	/	/	/	N2	N2	/	/	/	58,50	13,21	30,00
+Pflegefachkraft	5,11																																							
+Team	30,00																																					0,00	58,50	0,00
+	5,00				9,75	9,75													9,75	9,75													9,75	9,75				58,50		
+	2,40																																							
+Baecker, Jürgen	0,820513		/	N2	/	/	N1	N1	N1	/	/	N2	N2	N1	N1	N1	/	/	/	/	N1	N1	/	/	N1	N2	/	/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	134,40	12,35	5,00
+Heilerziehungspfleger_in	32,00		/	N2	/	/	N1	N1	N1	/	/	N2	N2	N1	N1	N1	/	/	/	/	N1	N1	/	/	N1	N2	/	/										146,75	-6,90	16,00
+Pflegefachkraft	-19,25																																							
+Team, POC-Test	21,00																																					0,00	146,75	33,80
+	5,00			9,75			9,50	9,50	9,50			9,75	9,75	9,50	9,50	9,50					9,50	9,50			9,50	9,75			6,40	6,40	6,40	6,40	6,40			6,40	6,40	146,75		
+	6,40																																							
+Blau, Jones	0,11834		EU	EU	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	N2	N1	/	/_S	/	/	/	/	/			19,38	-0,13	0,00
+Heilerziehungspfleger_in	4,61526		/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	/	N2	N1	/	/_S	/	/	/	/	/			19,25	-5,00	23,00
+Pflegefachkraft	-4,87																																							
+Team, POC-Test	23,00																																					0,00	19,25	0,00
+	5,00																										9,75	9,50										19,25		
+	0,923052																																							
+Thalberg, Thomas	1,00		1. U	1. U	1. U	1. U	1. U	/_F	/_F	/_F	Bü	F3	/	/	/_S	S2	S3	Bü	S2	S5	S5	/	F3	F3	Bü	F3	/	/	S2	S2	S3	Bü	/	FA1	FA1	F3	F3	163,80	-14,00	1,00
+Heilerziehungspfleger_in	39,00							/_F	/_F	/_F	Bü	F3	/	/	/_S	S2	S3	Bü	S2	S5	S5	/	F3	F3	Bü	F3	/	/	S2	S2	S3	Bü	/	FA1	FA1	F3	F3	149,80	4,02	16,00
+Pflegefachkraft	18,02																		RB	RB																				
+Team	17,00																																					0,00	142,00	27,52
+	5,00		7,80	7,80	7,80						8,00	8,00				8,00	7,00	8,00	9,00	8,00	7,00		8,00	8,00	8,00	8,00			8,00	8,00	7,00	8,00		8,00	8,00	8,00	8,00	142,00		
+	7,80																																							
+Gersten, Frank	0,923077		S7	S7	S5	S5	S5	/_S	/	N1	N1	/	/	/	S2	S2	S2	S2	/	F4	F4	F3	N1	N1	/	/_S	/	/	/	/	/_S	S2	S2	S5	S5	N1	N1	151,20	-1,20	0,00
+Heilerziehungspfleger_in	36,00		S7	S7	S5	S5	S5	/_S	/	N1	N1	/	/	/	S2	S2	S2	S2	/	F4	F4	F3	N1	N1	/	/_S	/	/	/	/	/_S	S2	S2	S5	S5	N1	N1	150,00	2,38	11,00
+Pflegefachkraft	3,58			RB											RB	RB	RB															RB	RB	RB	RB					
+Team, POC-Test	11,00																																					0,00	150,00	0,00
+	5,00		6,50	7,50	7,00	7,00	7,00			9,50	9,50				9,00	9,00	9,00	8,00		7,00	7,00	8,00	9,50	9,50								9,00	9,00	8,00	8,00	9,50	9,50	150,00		
+	7,20																																							
+Loewe, Susanne	0,410256		/	S6	S6	S6	S6	/	/_S	/	/	F6	/	/	S6	/	/	/	/	F6	F6	F6	/	/_S	/	F6	/	/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	67,20	3,80	5,00
+Ergänzungskraft	16,00		/	S6	S6	S6	S6	/	/_S	/	/	F6	/	/	S6	/	/	/	/	F6	F6	F6	/	/_S	/	F6	/	/										71,00	19,97	21,00
+	16,17																				RB																			
+Team	26,00																																					0,00	71,00	5,54
+	5,00			6,00	6,00	6,00	6,00					6,00			6,00					6,00	7,00	6,00				6,00			3,20	3,20	3,20	3,20	3,20			3,20	3,20	71,00		
+	3,20																																							
+Brooks, Assumpta	1,00		1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	S2	S2	S2	S2	/	/_F	Z2	F6	/_S	/	/	S2	S2	/_S	/	S3	FA1	FA1			163,80	-9,10	9,00
+Heilerziehungspfleger_in	39,00																	S2	S2	S2	S2	/	/_F	Z2	F6	/_S	/	/	S2	S2	/_S	/	S3	FA1	FA1			154,70	-2,44	-4,00
+Auszubildender_e (PiA)	6,66																																							
+Auszubildende	5,00																																					0,00	154,70	0,00
+	5,00		7,80	7,80	7,80			7,80	7,80	7,80	7,80	7,80			7,80	7,80	7,80	8,00	8,00	8,00	8,00			7,50	6,00				8,00	8,00			7,00	8,00	8,00			154,70		
+	7,80																																							
+Beckenbauer, Tanja	1,00		F3	F3	/_S	/	/	/_F	S2	S2	/_S	S2	S2	S2	/	F3	F3	F3	F3	/	/	S2	S2	/	/_S	S2	S2	S2	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	163,80	-10,80	5,00
+Kranken- und Gesundheitspfleger_in 	39,00		F3	F3	/_S	/	/	/_F	S2	S2	/_S	S2	S2	S2	/	F3	F3	F3	F3	/	/	S2	S2	/	/_S	S2	S2	S2										153,00	7,74	19,00
+Pflegefachkraft	18,54																									RB	RB													
+Team, POC-Test	24,00																																					0,00	153,00	23,26
+	5,00		8,00	8,00					8,00	8,00		8,00	8,00	8,00		8,00	8,00	8,00	8,00			8,00	8,00			9,00	9,00	8,00	7,80	7,80	7,80	7,80	7,80			7,80	7,80	153,00		
+	7,80																																							
+Neudorf, Sabrina	1,00		N2	/	/_S	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	N1	N1	/	/	/	/_S	S2	S2	S2	/	FA1	FA1	N1	N1	N1	/	/_S	/	/	S7	S7	163,80	-10,30	0,00
+Heilerziehungspfleger_in	39,00		N2	/	/_S	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	N1	N1	/	/	/	/_S	S2	S2	S2	/	FA1	FA1	N1	N1	N1	/	/_S	/	/	S7	S7	153,50	-31,15	23,00
+Pflegefachkraft	-20,85																						RB	RB																
+Team, POC-Test	23,00																																					0,00	153,50	0,00
+	5,00		9,75					8,00	8,00	8,00	8,00		8,00	8,00	8,00	8,00	9,50	9,50					9,00	9,00	8,00		8,00	8,00	9,50	9,50	9,50					6,50	6,50	153,50		
+	7,80																																							
+Faerber, Martina	1,00		F6	F6	F3	/	/	/_F	S2	S2	S2	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U			163,80	-7,00	16,00
+Ausbildung HEP	39,00		F6	F6	F3	/	/	/_F	S2	S2	S2																											156,80	-7,43	17,00
+Auszubildende HEP	-0,43																																							
+Team	33,00																																					0,00	156,80	0,00
+	5,00		6,00	6,00	8,00				8,00	8,00	8,00	7,80			7,80	7,80	7,80	7,80	7,80			7,80	7,80	7,80	7,80	7,80			7,80	7,80	7,80	7,80	7,80					156,80		
+	7,80																																							
+Austerlitz, Silke	0,923077		S2	S2	1. U	1. U	1. U	1. U	/_F	F3	F3	F3	/	/	S2	S2	S2	/_S	S2	S5	S5	/	FA1	FA1	FA1	FA1	/	/	S2	S2	S2	S2	/	F4	F4			151,20	11,20	2,00
+Heilerziehungspfleger_in	36,00		S2	S2					/_F	F3	F3	F3	/	/	S2	S2	S2	/_S	S2	S5	S5	/	FA1	FA1	FA1	FA1	/	/	S2	S2	S2	S2	/	F4	F4			162,40	-2,90	19,00
+Pflegefachkraft	-14,10																																							
+Team, POC-Test	21,00																																					0,00	162,40	0,00
+	5,00		8,00	8,00	7,20			7,20		8,00	8,00	8,00			8,00	8,00	8,00		8,00	7,00	7,00		8,00	8,00	8,00	8,00			8,00	8,00	8,00	8,00		7,00	7,00			162,40		
+	7,20																																							
+Baer, Simone	0,40		/	/	S2	F6	F6	F1b	F1b	/	/_S	/	/	/	/	/	/	S5	/	F6	F6	F6	/	/	/_S	/	/	/	/_S	/	/	/	S5	S5	S5			64,68	9,32	0,00
+Erzieher_in	15,40		/	/	S2	F6	F6	F1b	F1b	/	/_S	/	/	/	/	/	/	S5	/	F6	F6	F6	/	/	/_S	/	/	/	/_S	/	/	/	S5	S5	S5			74,00	15,14	24,00
+Pädagogische Fachkraft	5,82																																							
+Team	24,00																																					0,00	74,00	0,00
+	6,00				8,00	6,00	6,00	4,00	4,00									7,00		6,00	6,00	6,00											7,00	7,00	7,00			74,00		
+	2,566667																																							
+Hirsch, Maria	0,717949		S6	S6	/	F6	F6	F2	F6	F6	/_S	F6	/	/	S6	S6	S6	/_S	S6	S6	F6	/	F1b	/_F	F1b	F1b	/	/	S6	S6	S6	S6	/	F6	F6			117,60	1,90	0,00
+Ergänzungskraft	28,00		S6	S6	/	F6	F6	F2	F6	F6	/_S	F6	/	/	S6	S6	S6	/_S	S6	S6	F6	/	F1b	/_F	F1b	F1b	/	/	S6	S6	S6	S6	/	F6	F6			119,50	10,03	10,00
+Ergänzungskraft	8,13		RB																																					
+Team	10,00																																					0,00	119,50	0,00
+	5,00		7,00	6,00		6,00	6,00	5,50	6,00	6,00		6,00			6,00	6,00	6,00		6,00	6,00	6,00		4,00		4,00	4,00			6,00	6,00	6,00	6,00		6,00	6,00			119,50		
+	5,60																																							
+Schmidt, Ralf	0,60		S6	/	S6	S6	S6	F6	F1b	/_S	F1b	F1b	/	/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	/	/	/_S	/	S6	S6	S6			100,80	5,20	10,00
+Ergänzungskraft	24,00		S6	/	S6	S6	S6	F6	F1b	/_S	F1b	F1b	/	/															/	/	/_S	/	S6	S6	S6			106,00	29,75	10,00
+Ergänzungskraft	24,55				RB	RB	RB	RB																																
+Team	20,00																																					0,00	106,00	6,77
+	5,00		6,00		7,00	7,00	7,00	7,00	4,00		4,00	4,00			4,80	4,80	4,80	4,80	4,80			4,80	4,80	4,80	4,80	4,80							6,00	6,00	6,00			106,00		
+	4,80																																							
+Wulf, Sandra	1,00		F3	F3	/_S	/	/	/_F	/_S	S2	S2	S2	S2	S2	/	F3	F3	F3	F3	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/			163,80	-7,80	0,00
+Studium Reha Pädagogik (od. vgl. Abschluss)	39,00		F3	F3	/_S	/	/	/_F	/_S	S2	S2	S2	S2	S2	/	F3	F3	F3	F3	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/			156,00	7,05	18,00
+Pädagogische Fachkraft	14,85									RB	RB											RB						RB												
+Team	18,00																																					0,00	156,00	0,00
+	5,00		8,00	8,00						9,00	9,00	8,00	8,00	8,00		8,00	8,00	8,00	8,00			9,00	8,00	8,00	8,00		8,00	9,00	8,00	8,00	8,00	8,00						156,00		
+	7,80																																							
+Lemann, Leonie	0,615385		/_S	F6	/	/	/	F6	F6	F6	F6	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	F1b	/	/_S	/	F6	F6	F6	/	/	/	F1b	F1b	/	/			100,80	-18,00	6,00
+Kranken- und Gesundheitspfleger_in 	24,00		/_S	F6	/	/	/	F6	F6	F6	F6											F1b	/	/_S	/	F6	F6	F6	/	/	/	F1b	F1b	/	/			82,80	18,32	20,00
+Pflegefachkraft	36,32																																							
+Team, POC-Test	26,00																																					0,00	82,80	10,42
+	5,00			6,00				6,00	6,00	6,00	6,00	4,80			4,80	4,80	4,80	4,80	4,80			4,00				6,00	6,00	6,00				4,00	4,00					82,80		
+	4,80																																							
+Busch, Robert	0,00		/	F1																																		0,00	0,00	0,00
+Erzieher_in	0,00																																					0,00	-4,98	3,00
+Pädagogische Fachkraft	-4,98																																							
+Team	3,00																																					0,00	0,00	0,00
+	0,00																																					0,00		
+	0,00																																							
+Durr, Kristian	0,40		1. U	1. U	1. U	1. U	1. U	S6	/_S	/	BR	/	S6	S6	/	/	/	BR	F1b	/	/	S6	/_S	/	BR	/	F6	F6	F1b	/	/	BR	F1b	/	/			67,20	-16,00	1,00
+Ergänzungskraft	16,00							S6	/_S	/		/	S6	S6	/	/	/		F1b	/	/	S6	/_S	/		/	F6	F6	F1b	/	/		F1b	/	/			51,20	34,88	15,00
+Ergänzungskraft	50,88																																							
+Team	16,00																																					0,00	48,00	10,78
+	5,00		3,20	3,20	3,20			6,00					6,00	6,00					4,00			6,00					6,00	6,00	4,00				4,00					48,00		
+	3,20																																							
+Zimmerman, Stefanie	0,50		/	/	F1b	/	/	S6	S6	/_S	S6	S6	F6	F6	F1b	/	/	/	/	/	/	/_S	S6	S6	S6	S6	S6	S6	/	F1b	F1b	F1b	/	/	/			84,00	10,00	0,00
+Ergänzungskraft	20,00		/	/	F1b	/	/	S6	S6	/_S	S6	S6	F6	F6	F1b	/	/	/	/	/	/	/_S	S6	S6	S6	S6	S6	S6	/	F1b	F1b	F1b	/	/	/			94,00	31,70	19,00
+Ergänzungskraft	21,70													RB											RB															
+Team	19,00																																					0,00	94,00	27,62
+	5,00				4,00			6,00	6,00		6,00	6,00	6,00	7,00	4,00								6,00	6,00	7,00	6,00	6,00	6,00		4,00	4,00	4,00						94,00		
+	4,00																																							
+Klein, Michael	0,153846		/	/	/	/	/	/	/	/	/	/	F6	F6	/_S	/	/	/	/	/	/	/	/	/	/	/	S6	S6	/_S	/	/	/	/	/	/			25,20	-1,20	0,00
+Ergänzungskraft	6,00		/	/	/	/	/	/	/	/	/	/	F6	F6	/_S	/	/	/	/	/	/	/	/	/	/	/	S6	S6	/_S	/	/	/	/	/	/			24,00	-2,45	20,00
+Ergänzungskraft	-1,25																																							
+Team	20,00																																					0,00	24,00	/
+	5,00												6,00	6,00													6,00	6,00										24,00		
+	1,20																																							
+Feierabend, Sabrina	1,00		S2	S2	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/	S7	S7	S7	S7	S5	S5	S5	/	FA1	FA1	FA1	/_S	/	/	S2	S2	S2	S2	/	FA1	FA1			163,80	4,20	0,00
+Studium Reha Pädagogik (od. vgl. Abschluss)	39,00		S2	/_F	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/	S7	S7	S7	S7	S5	S5	S5	/	FA1	FA1	FA1	/_S	/	/	S2	S2	S2	S2	/	FA1	FA1			168,00	3,47	20,00
+Pädagogische Fachkraft	-0,73																	RB																						
+Team	20,00																																					0,00	168,00	11,82
+	5,00		8,00			8,00	8,00	8,00	8,00	8,00	8,00				6,50	6,50	6,50	7,50	7,00	7,00	7,00		8,00	8,00	8,00				8,00	8,00	8,00	8,00		8,00	8,00			168,00		
+	7,80																																							
+Kohl, Paul	0,50		/	BR	S5	S5	S5	/	/_S	F6	/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	/	/	/	/	S5	S5	S5			84,00	8,00	11,00
+Altenpfleger_in 	20,00		/	S2	S5	S5	S5	/	/_S	F6	/																		/	/	/	/	S5	S5	S5			92,00	21,77	14,00
+Pflegefachkraft	13,77																																							
+Team, POC-Test	25,00																																					0,00	48,00	0,00
+	5,00			8,00	7,00	7,00	7,00			6,00		4,00			4,00	4,00	4,00	4,00	4,00			4,00	4,00	4,00	4,00	4,00							7,00	7,00	7,00			48,00		
+	4,00																																							
+Bauer, Stephanie	1,00		/	/	F3	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/	S7	S7	S7	S7	S5	S5	S5	/	F3	F3	F3	F3	/	/			163,80	4,20	0,00
+Studium Soziale Arbeit (od. vgl. Abschluss) 	39,00		/	/	F3	/	/	S2	S2	S2	S2	/	FA1	FA1	F3	F3	F3	F3	/_S	/	/	S7	S7	S7	S7	S5	S5	S5	/	F3	F3	F3	F3	/	/			168,00	53,73	15,00
+Pädagogische Fachkraft	49,53								RB																															
+Team	15,00																																					0,00	168,00	0,00
+	5,00				8,00			8,00	9,00	8,00	8,00		8,00	8,00	8,00	8,00	8,00	8,00				6,50	6,50	6,50	6,50	7,00	7,00	7,00		8,00	8,00	8,00	8,00					168,00		
+	7,80																																							
+Osterhagen, Melanie	0,410256		1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	/_S	/	/	S6	/	F6	S6	/	/	F6	Z2	/	/	/	/	/	S6	S6	1. U	1. U	1. U	1. U	1. U	67,20	-0,30	7,00
+Ergänzungskraft	16,00														/_S	/	/	S6	/	F6	S6	/	/	F6	Z2	/	/	/	/	/	S6	S6						66,90	3,82	15,00
+Ergänzungskraft	4,12																														RB									
+Team	22,00																																					0,00	66,90	0,03
+	5,00		3,20	3,20	3,20			3,20	3,20	3,20	3,20	3,20						6,00		6,00	6,00			6,00	7,50						7,00	6,00	3,20			3,20	3,20	66,90		
+	3,20																																							
+Engel, Kerstin	0,410256		EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	EU	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U			35,20	0,00	11,00
+Ergänzungskraft	16,00																																					35,20	22,58	4,00
+Ergänzungskraft	22,58																																							
+Team	15,00																																					0,00	35,20	1,85
+	5,00																		3,20			3,20	3,20	3,20	3,20	3,20			3,20	3,20	3,20	3,20	3,20					35,20		
+	3,20																																							
+Krüger, Jonas	0,717949		/	/	F3	/	/	1. U	1. U	AZ	AZ	S5	S9	S5	/	F3	F3	F3	/_S	/	/	/	/	/	/	/	F6	F6	F6	/	/	/_S	/	/	/			117,60	-25,20	2,00
+Kranken- und Gesundheitspfleger_in 	28,00		/	/	F3	/	/					S5	S9	S5	/	F3	F3	F3	/_S	/	/	/	/	/	/	/	F6	F6	F6	/	/	/_S	/	/	/			92,40	-29,07	14,00
+Pflegefachkraft	-3,87																																							
+Team, POC-Test	16,00																																					0,00	92,40	2,37
+	5,00				8,00			5,60	5,60	5,60	5,60	7,00	6,00	7,00		8,00	8,00	8,00									6,00	6,00	6,00									92,40		
+	5,60																																							
+Freud, Eric	0,410256		F6	/	F6	/	/	S6	/	/_S	/	/	F6	F6	F6	/	/	/	F6	/	/	/	/	/	/_S	S6	S6	S6	/	/	/	F6	F6	/	/			67,20	-1,20	0,00
+Ergänzungskraft	16,00		F1b	/	F6	/	/	S6	/	/_S	/	/	F6	F6	F6	/	/	/	F6	/	/	/	/	/	/_S	S6	S6	S6	/	/	/	F6	F6	/	/			66,00	14,15	23,00
+Student_in 	15,35																																							
+Team	23,00																																					0,00	66,00	0,00
+	5,00		4,00		6,00			6,00					6,00	6,00	6,00				6,00							6,00	6,00	6,00				6,00	6,00					66,00		
+	3,20																																							
+Bauer, Michael	0,50		F1	/	/	/	/	/_S	/	/	/	S6	S6	S6	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	1. U	F6	F6	F6	/	/	/	/			84,00	-4,00	10,00
+Ergänzungskraft	20,00		F6	/	/	/	/	/_S	/	/	/	S6	S6	S6															F6	F6	F6	/	/	/	/			80,00	-0,22	14,00
+Ergänzungskraft	3,78											RB	RB																RB	RB										
+Team	24,00																																					0,00	80,00	0,00
+	5,00		6,00									7,00	7,00	6,00	4,00	4,00	4,00	4,00	4,00			4,00	4,00	4,00	4,00	4,00			7,00	7,00	6,00							80,00		
+	4,00																																							
+Freuhauf, Birgit	0,2092		/	/	/	/	/	1. U	1. U	1. U	1. U	1. U	1. U	1. U	/	/	/	/	/	/	/	/	/	/	/	/	HWW	HWW	/_S	/	/	/	/	/	/	/	/	34,27	-14,12	5,00
+Ergänzungskraft	8,1588		/	/	/	/	/								/	/	/	/	/	/	/	/	/	/	/	/	HWW	HWW	/_S	/	/	/	/	/	/	/	/	20,16	-9,97	20,00
+Hauswirtschaftskraft	4,15																																							
+Sonstige	25,00																																					0,00	20,16	/
+	5,00							1,63	1,63	1,63	1,63	1,63															6,00	6,00										20,16		
+	1,63176																																							
+Schiffer, Markus	0,15																																					24,57	-24,57	0,00
+Pädagogische Fachkraft	5,85																																					0,00	-55,07	25,00
+Pädagogische Fachkraft	-30,50																																							
+Team	25,00																																					0,00	0,00	/
+	5,00																																					0,00		
+	1,17																																							
+Abwesenheiten [Anz. inkl. Abw.]	619		19	20	18	20	20	20	20	20	19	19	19	19	20	19	20	18	21	20	20	21	21	20	18	20	19	19	22	22	22	19	22	21	21	7	7	3241,59	-301,45	122,00
+Abwesenheiten (A) [Anz. inkl. Abw.]	76		3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2940,14	-356,75	567,00
+Bereitschaften [Anz. inkl. Abw.]																																								
+Frühdienste [Anz. inkl. Abw.]	140		5	4	5	4	4	5	5	5	4	5	5	5	4	5	4	4	4	5	5	4	4	4	4	5	5	5	4	4	4	5	4	5	5	1	1	0,00	2885,14	202,34
+Nachtdienste [Anz. inkl. Abw.]	31		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2885,14		
+Rufbereitschaften [Anz. inkl. Abw.]	31		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Spätdienste [Anz. inkl. Abw.]	153		5	5	5	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	1			
+Zwischendienste [Anz. inkl. Abw.]																																								
+Gesetzliche und tarifliche Prüfung																																								
+FK Früh	WSB Gru	85,00	2	3	2	2	2	3	3	4	3	2	2	2	2	5	4	4	2	2	2	3	3	3	2	3	4	4	2	2	2	3	2	3	3	1	1			
+FK Nacht	WSB Gru	31,00	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1			
+FK Spät	WSB Gru	91,00	3	3	3	2	2	2	3	4	3	3	3	3	3	4	4	3	3	3	3	3	4	3	3	2	2	2	3	3	3	3	3	3	3	1	1			
+Uhrzeitgenaue Gesamtbesetzung	WSB Gru																																							
